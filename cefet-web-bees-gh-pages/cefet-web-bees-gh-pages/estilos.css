@@ -1,0 +1,78 @@
+body {
+    font-size: 20px;
+    background-image: linear-gradient( 0deg, #88f888, rgb(241, 241, 116),rgb(150, 250, 250)  );
+  }
+
+  p {
+    text-align: justify;
+  }
+  #logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(150, 250, 250, 0);
+    box-shadow: 4px 4px 4px #0003
+  }
+
+  p.curiosidade{
+    background-image: url(imgs/favo-de-mel.png);
+    border: 1px solid rgb(243, 243, 51);
+    border-radius:5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 1em 1em 1em;
+  }
+
+#interrogacao{
+  float: left;
+  margin-right: 10px;
+}
+
+#abelha-operaria{
+  float: left;
+  border: 5px double rgb(243, 243, 51);
+  border-radius:50%;
+  shape-outside: padding-box;
+}
+
+#abelha-rainha{
+  float: left;
+  border: 5px double rgb(243, 243, 51);
+  border-radius:50%;
+  shape-outside: padding-box;
+}
+
+p.pararainha{
+  margin-left: 225px;
+  margin-right: 20px;
+}
+
+#zangao{
+  float: right;
+  border: 5px double rgb(243, 243, 51);
+  border-radius:50%;
+}
+
+p.paraoperarias{
+  margin-left: 225px;
+  margin-right: 20px;
+}
+
+p.parazangao{
+  margin-right: 225px;
+  margin-left: 20px;
+}
+
+#hiperroxos{
+  color: purple
+}
+
+#fundohiper{
+  border: 5px solid hotpink;
+  background-color: hotpink;
+  color: purple;
+}
+
+#lastPara{
+  text-align: right;
+}
